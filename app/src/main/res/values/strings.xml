@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Encryption</string>
+    <string name="Plain_Text">Plain Text</string>
+    <string name="Key">Key</string>
+    <string name="Cipher_Text">Cipher Text</string>
+    <string name="Encrypt">Encrypt</string>
+    <string name="Polyalphabetic_Cipher">"Polyalphabetic Cipher "</string>
+    <string name="PlayFair_Matrix">Play Fair Matrix</string>
+    <string name="playFairMatrix">Play Fair Matrix</string>
+    <string name="Btn_Polyalphabetic">Polyalphabetic Encrypt</string>
+    <string name="Btn_PlayFair">Play Fair Encrypt</string>
+    <string name="playFairEncrypt">Play Fair Encrypted</string>
+    <string name="Next" />
+    <string name="Clear" />
+    <string name="Vigenère">"Vigenère "</string>
+    <string name="Btn_Vigenere">"Vigenère "</string>
+    <string name="Caesar_Shift">Caesar Shift</string>
+    <string name="Caesar">Caesar  Cipher</string>
+    <string name="Btn_Caesar">"Caesar "</string>
+    <string name="Monoalphabetic">"Monoalphabetic "</string>
+    <string name="Monoalphabetic_Key">"Monoalphabetic "</string>
+    <string name="MonoalphabeticKeey">Monoalphabetic Key</string>
+    <string name="Btn_Mono">"Monoalphabetic "</string>
+    <string name="Back" />
+    <string name="Btn_RC5">RC5</string>
+    <string name="LB_keyExp">"Key Expansion "</string>
+    <string name="Btn_RC6">RC6</string>
+</resources>
